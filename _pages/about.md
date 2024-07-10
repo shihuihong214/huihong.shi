@@ -33,7 +33,7 @@ My research interests include **efficient and automated machine learning**, as w
 
 - *2023.12 - 2024.05*, Georgia Institute of Technology, School of Computer Science, visiting student supervised by Prof. Yingyan Lin. 
 
-- *2021.03 - 2022.12*, Rice University, Schole of Electrical and Computer Engineering, visiting student supervised by Prof. Yingyan Lin. 
+- *2021.03 - 2022.12*, Rice University (Remote), Schole of Electrical and Computer Engineering, visiting student supervised by Prof. Yingyan Lin. 
 
 - *2016.09 - 2020.06*, Jilin University, School of Communication Engineering, Bachelor. 
 
