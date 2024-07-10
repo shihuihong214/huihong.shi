@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Huihong Shi, and I am currently a 5th-year Ph.D. student at the School of Electronic Science and Engineering at ***Nanjing University***, under the supervision of ***Prof. Zhongfeng Wang***. From April 2021 to December 2022, I was a visiting student at the EIC Lab at ***Rice University***, supervised remotely by ***Prof. Yingyan Lin***. I also visited the EIC Lab at ***the Georgia Institute of Technology*** in person from December 2023 to May 2024.
+Hello, welcome to my page!
+
+My name is **Huihong Shi**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **Nanjing University**, under the supervision of **Prof. Zhongfeng Wang**. From April 2021 to December 2022, I was a visiting student at the EIC Lab at **Rice University**, supervised remotely by **Prof. Yingyan Lin**. I also visited the EIC Lab at **the Georgia Institute of Technology** in person from December 2023 to May 2024.
 
 My research interests include **efficient and automated machine learning**, as well as **algorithm and hardware accelerator co-design**.
 
@@ -27,17 +29,13 @@ My research interests include **efficient and automated machine learning**, as w
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - now*, Nanjing University
-  Ph.D. student supervised by Prof. Zhongfeng Wang, School of Electronic Science and Engineering
+- *2019.06 - now*, Nanjing University, School of Electronic Science and Engineering, Ph.D. student supervised by Prof. Zhongfeng Wang. 
 
-- *2023.12 - 2024.05*, Georgia Institute of Technology
-  Visiting student supervised by Prof. Yingyan Lin, School of Computer Science 
+- *2023.12 - 2024.05*, Georgia Institute of Technology, School of Computer Science, visiting student supervised by Prof. Yingyan Lin. 
 
-- *2021.03 - 2022.12*, Rice University
-  Visiting student supervised by Prof. Yingyan Lin,  Schole of Electrical and Computer Engineering
+- *2021.03 - 2022.12*, Rice University, Schole of Electrical and Computer Engineering, visiting student supervised by Prof. Yingyan Lin. 
 
-- *2016.09 - 2020.06*, Jilin University
-  Bachelor in the School of Communication Engineering
+- *2016.09 - 2020.06*, Jilin University, School of Communication Engineering, Bachelor. 
 
 # 📝 Publications 
 
