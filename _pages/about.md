@@ -19,11 +19,11 @@ redirect_from:
 
 Hello, welcome to my page!
 
-My name is **<span style="color: #FF4500;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **<span style="color: #1976D2;">Nanjing University</span>**, under the supervision of **<span style="color: #FF4500;">Prof. Zhongfeng Wang</span>**. From April 2021 to December 2022, I was a visiting student at the EIC Lab at **<span style="color: #1976D2;">Rice University</span>**, supervised remotely by **<span style="color: #FF4500;">Prof. Yingyan Lin</span>**. I also visited the EIC Lab at **<span style="color: #1976D2;">the Georgia Institute of Technology</span>** in person from December 2023 to May 2024. 
+My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **<span style="color: #1976D2;">Nanjing University</span>**, under the supervision of **<span style="color: #CC6600;">Prof. Zhongfeng Wang</span>**. From April 2021 to December 2022, I was a visiting student at the EIC Lab at **<span style="color: #1976D2;">Rice University</span>**, supervised remotely by **<span style="color: #CC6600;">Prof. Yingyan Lin</span>**. I also visited the EIC Lab at **<span style="color: #1976D2;">the Georgia Institute of Technology</span>** in person from December 2023 to May 2024. 
 
 My research interests include **<span style="color: #1976D2;">efficient and automated machine learning</span>**, as well as **<span style="color: #1976D2;">algorithm and hardware accelerator co-design</span>**.
 
-My **<span style="color: #FF4500;">CV</span>** can be downloaded here!
+My **<span style="color: #CC6600;">CV</span>** can be downloaded here!
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -32,17 +32,17 @@ My **<span style="color: #FF4500;">CV</span>** can be downloaded here!
 <!-- <span class='anchor' id='/educations/'></span> -->
 <!-- permalink: /terms/ -->
 # 📖 Educations
-- *2019.06 - now*, <span style="color: #1976D2;">Nanjing University</span>, School of Electronic Science and Engineering, <span style="color: #006400;">Ph.D. student</span> supervised by <span style="color: #FF4500;">Prof. Zhongfeng Wang</span>. 
+- *2019.06 - now*, <span style="color: #1976D2;">Nanjing University</span>, School of Electronic Science and Engineering, <span style="color: #006400;">Ph.D. student</span> supervised by <span style="color: #CC6600;">Prof. Zhongfeng Wang</span>. 
 
-- *2023.12 - 2024.05*, <span style="color: #1976D2;">Georgia Institute of Technology</span>, School of Computer Science, <span style="color: #006400;">visiting student</span> supervised by <span style="color: #FF4500;">Prof. Yingyan Lin</span>. 
+- *2023.12 - 2024.05*, <span style="color: #1976D2;">Georgia Institute of Technology</span>, School of Computer Science, <span style="color: #006400;">visiting student</span> supervised by <span style="color: #CC6600;">Prof. Yingyan Lin</span>. 
 
-- *2021.03 - 2022.12*, <span style="color: #1976D2;">Rice University (Remote)</span>, Schole of Electrical and Computer Engineering, <span style="color: #006400;">visiting student</span> supervised by <span style="color: #FF4500;">Prof. Yingyan Lin</span>. 
+- *2021.03 - 2022.12*, <span style="color: #1976D2;">Rice University (Remote)</span>, Schole of Electrical and Computer Engineering, <span style="color: #006400;">visiting student</span> supervised by <span style="color: #CC6600;">Prof. Yingyan Lin</span>. 
 
 - *2016.09 - 2020.06*, <span style="color: #1976D2;">Jilin University</span>, School of Communication Engineering, <span style="color: #006400;">Bachelor</span>. 
 
 # 📝 Publications 
 <!-- *********Trio^ViT********* -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/trio-vit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trio-ViT: Post-Training Quantization and Acceleration for Softmax-Free Efficient Vision Transformer.](https://arxiv.org/abs/2405.03882)
@@ -57,7 +57,7 @@ We propose Trio-ViT to marry the hardware efficiency of both quantization and ef
 </div>
 
 <!-- *********P^ViT********* -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVLSI 2024</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVLSI 2024</div><img src='images/p2-vit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [P$^2$-ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer.](http://arxiv.org/abs/2405.19915)
@@ -72,12 +72,12 @@ We propose a Power-of-Two (PoT) post-training quantization and acceleration fram
 </div>
 
 <!-- *********ShiftAddViT********* -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/shiftaddvit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ShiftAddViT: Mixture of Multiplication Primitives Towards Efficient Vision Transformer.](https://proceedings.neurips.cc/paper_files/paper/2023/file/69c49f75ca31620f1f0d38093d9f3d9b-Paper-Conference.pdf)
 
-Haoran You*, **<span style="color: #006400;">Huihong Shi*</span>**, Yipin Guo*, Zhongfeng Wang (Co-first Authors)
+Haoran You\*, **<span style="color: #006400;">Huihong Shi\*</span>**, Yipin Guo\*, Zhongfeng Wang (\*Co-first Authors)
 
 [**Conference**] Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)
 
@@ -87,12 +87,12 @@ We reparameterize pre-trained Vision Transformers (ViTs) with ***a mixture of mu
 </div>
 
 <!-- *********Vitality********* -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2023</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2023</div><img src='images/vitality.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention.](https://ieeexplore.ieee.org/abstract/document/10071081)
 
-Jyotikrishna Dass*, Shang Wu,* **<span style="color: #006400;">Huihong Shi*</span>**, Chaojian Li, Zhifan Ye, Zhongfeng Wang, Yingyan Lin
+Jyotikrishna Dass\*, Shang Wu\*, **<span style="color: #006400;">Huihong Shi\*</span>**, Chaojian Li, Zhifan Ye, Zhongfeng Wang, Yingyan Lin (\*Co-first Authors)
 
 [**Conference**] International Symposium on High-Performance Computer Architecture (HPCA 2023)
 
@@ -103,12 +103,12 @@ We propose VITALITY to boost the **inference efficiency of Vision Transformers (
 
 
 <!-- *********NASA-F+********* -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2024</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2024</div><img src='images/nasa-f.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NASA-F: FPGA-Oriented Search and Acceleration for Multiplication-Reduced Hybrid Networks.](https://ieeexplore.ieee.org/abstract/document/10308526)
 
-**<span style="color: #006400;">Huihong Shi</span>**, Yang Xu, Wendong Mao, Zhongfeng Wang
+**<span style="color: #006400;">Huihong Shi\*</span>**, Yang Xu\*, Wendong Mao, Zhongfeng Wang (\*Co-first Authors)
 
 [**Journal**] IEEE Transactions on Circuits and Systems I (TCAS-I 2024)
 
@@ -120,7 +120,7 @@ We propose an FPGA-oriented search and acceleration framework called NASA-F for 
 
 
 <!-- *********NASA+********* -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2023</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2023</div><img src='images/nasa+.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NASA$+$: Neural Architecture Search and Acceleration for Multiplication-Reduced Hybrid Networks.](https://ieeexplore.ieee.org/abstract/document/10078392)
