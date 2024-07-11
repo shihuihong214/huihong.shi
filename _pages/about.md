@@ -123,7 +123,7 @@ We propose VITALITY to boost the **inference efficiency of Vision Transformers (
 
 [NASA-F: FPGA-Oriented Search and Acceleration for Multiplication-Reduced Hybrid Networks.](https://ieeexplore.ieee.org/abstract/document/10308526)
 
-**<span style="color: #006400;">Huihong Shi\*</span>**, Yang Xu\*, Wendong Mao, Zhongfeng Wang (\*Co-first Authors)
+**<span style="color: #006400;">Huihong Shi</span>**, Yang Xu, Wendong Mao, Zhongfeng Wang 
 
 [**Journal**] IEEE Transactions on Circuits and Systems I (TCAS-I 2024)
 
@@ -181,8 +181,23 @@ We propose a compression algorithm for one of the influential CNN-based **style 
 </div>
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT](https://arxiv.org/abs/2403.20230), H. Shao, **<span style="color: #006400;">H. Shi</span>**, W. Mao, Z. Wang. IEEE International Symposium on Circuits and Systems 2024 **(ISCAS 2024)**
 
+- [A Computationally Efficient Neural Video Compression Accelerator Based on a Sparse CNN-Transformer Hybrid](https://arxiv.org/html/2312.10716v1), S. Zhang, W. Mao, **<span style="color: #006400;">H. Shi</span>**, Z. Wang. Design, Automation and Test in Europe Conference **(DATE 2024)**
+
+- [ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design](https://ieeexplore.ieee.org/abstract/document/10071027), H. You, Z. Sun, **<span style="color: #006400;">H. Shi</span>**, Z. Yu, Y. Zhao, Y. Zhang, C. Li, B. Li, Y. Lin. International Symposium on High-Performance Computer Architecture **(HPCA 2023)**
+
+- [S$^2$R: Exploring a Double-Win Transformer-Based Framework for Ideal and Blind Super-Resolution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=j7AChUYAAAAJ&citation_for_view=j7AChUYAAAAJ:Y0pCki6q_DkC), M. She, W. Mao, **<span style="color: #006400;">H. Shi</span>**, Z Wang. International Conference on Artificial Neural Networks **(ICANN 2023)**
+
+- [ShiftAddNAS: Hardware-Inspired Search for More Accurate and Efficient Neural Networks](https://proceedings.mlr.press/v162/you22a.html), H. You, B. Li, **<span style="color: #006400;">H. Shi</span>**, Y. Lin. International Conference on Machine Learning **(ICML 2022)**
+
+- [Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure](https://ieeexplore.ieee.org/abstract/document/9906917), W. Mao, S. Yang, **<span style="color: #006400;">H. Shi</span>**, J. Liu, Z. Wang. IEEE Transactions on Multimedia **(TMM 2022)**
+
+- [Unveiling and Harnessing Hidden Attention Sinks: Enhancing Large Language Models without Training through Attention Calibration](https://arxiv.org/abs/2406.15765), Z. Yu, Z. Wang, Y. Fu, **<span style="color: #006400;">H. Shi</span>**, K. Shaikh, Y. Lin. International Conference on Machine Learning **(ICML 2024)**
+
+- [Max-Affine Spline Insights Into Deep Network Pruning](https://arxiv.org/abs/2406.15765), H. You, R. Balestriero, Z. Lu, Y. Kou, **<span style="color: #006400;">H. Shi</span>**, S. Zhang, S. Wu, Y. Lin. Transactions on Machine Learning Research **(TMLR 2024)**
+
+- [Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=j7AChUYAAAAJ&citation_for_view=j7AChUYAAAAJ:zYLM7Y9cAGgC), S. Li, C. Li, W. Zhu, C. Wan, H. You, **<span style="color: #006400;">H. Shi</span>**, Y. Lin. International Symposium on Computer Architecture **(ISCA 2023)**
 
 # 🎖 Honors and Awards
 - *2023.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
