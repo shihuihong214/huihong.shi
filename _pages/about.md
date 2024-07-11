@@ -97,7 +97,7 @@ Jyotikrishna Dass\*, Shang Wu\*, **<span style="color: #006400;">Huihong Shi\*</
 [**Conference**] International Symposium on High-Performance Computer Architecture (HPCA 2023)
 
 [**Abstract**]
-We propose VITALITY to boost the **inference efficiency of Vision Transformers (ViTs)**. We first approximate the vanilla softmax with first-order ***Taylor attention for linear complexity*** and unifies low-rank and sparse components to enhance accuracy. We further develop a ***dedicated accelerator*** that leverages the linearized workload to improve hardware efficiency.
+We propose VITALITY to boost the **inference efficiency of Vision Transformers (ViTs)** via algorithm-hardware co-design. We first approximate the vanilla softmax with first-order ***Taylor attention for linear complexity*** and unifies low-rank and sparse components to enhance accuracy. We further develop a ***dedicated accelerator*** that leverages the linearized workload to improve hardware efficiency.
 </div>
 </div>
 
@@ -113,7 +113,7 @@ We propose VITALITY to boost the **inference efficiency of Vision Transformers (
 [**Journal**] IEEE Transactions on Circuits and Systems I (TCAS-I 2024)
 
 [**Abstract**]
-We propose an FPGA-oriented search and acceleration framework called NASA-F for multiplication-reduced hybrid models. Specifically, we fully leverage the diverse hardware resources available on FPGAs to accelerate heterogeneous layers in hybrid models, aiming to enhance both hardware utilization and throughput.
+We propose an **FPGA-oriented** search and acceleration framework called NASA-F for multiplication-reduced hybrid models. Specifically, we fully leverage the ***diverse hardware resources*** (DSPs and LUTs) available on FPGAs to accelerate ***heterogeneous layers*** in hybrid models, aiming to enhance both hardware utilization and throughput.
 
 </div>
 </div>
