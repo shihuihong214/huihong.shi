@@ -41,17 +41,28 @@ My **<span style="color: #8d4bbb;">CV</span>** can be downloaded here!
 - *2016.09 - 2020.06*, <span style="color: #1976D2;">Jilin University</span>, School of Communication Engineering, <span style="color: #006400;">Bachelor</span>. 
 
 # 📝 Publications 
-
+<!-- *********NASA********* -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2022</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NASA: Neural Architecture Search and Acceleration for Hardware Inspired Hybrid Networks.](https://dl.acm.org/doi/abs/10.1145/3508352.3549478)
 
-**Huihong Shi**, Haoran You, Yang Zhao, ZHongfeng Wang, Yingyan Lin
+**<span style="color: #006400;">Huihong Shi</span>**, Haoran You, Yang Zhao, Zhongfeng Wang, Yingyan Lin
 
 [**Abstract**]
-We propose a **Neural Architecture Search and Acceleration framework** dubbed NASA to enable automated search and acceleration of *multiplication-reduced models*, aiming to marry the powerful performance of multiplication-based models and the hardware efficiency of multiplication-free models.
-<!-- - We propose a **Neural Architecture Search and Acceleration framework** dubbed NASA. We first propose a dedicated ***neural architecture search (NAS) engine*** to enable the automated development of *multiplication-reduced models*, aiming to marry the powerful performance of multiplication-based models and the hardware efficiency of multiplication-free models. We further integrate a ***dedicated accelerator*** featuring a chunk-based design to fully leverage our algorithmic benefits, thereby enhancing overall hardware efficiency.  -->
+We propose a **Neural Architecture Search and Acceleration framework** dubbed NASA to enable automated search and acceleration of ***multiplication-reduced models***, aiming to marry the powerful performance of multiplication-based models and the hardware efficiency of multiplication-free models.
+
+<!-- *********NASA+********* -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2023</div><img src='images/nasa2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NASA$+$: Neural Architecture Search and Acceleration for Multiplication-Reduced Hybrid Networks.](https://ieeexplore.ieee.org/abstract/document/10078392)
+
+**<span style="color: #006400;">Huihong Shi</span>**, Haoran You, Zhongfeng Wang, Yingyan Lin
+
+[**Abstract**]
+Inspired by the fact that multiplications can be mathematically decomposed into bit-wise shifts and additions, we design **reconfigurable PEs** to simultaneously support multiplication-based convolutions, shift, and adder layers, thus enhancing the flexibility of our accelerator.
+
 </div>
 </div>
 
