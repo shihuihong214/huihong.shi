@@ -23,11 +23,11 @@ My name is **<span style="color: red;">Huihong Shi</span>**, and I am currently 
 
 My research interests include **efficient and automated machine learning**, as well as **algorithm and hardware accelerator co-design**.
 
-
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2019.06 - now*, Nanjing University, School of Electronic Science and Engineering, Ph.D. student supervised by Prof. Zhongfeng Wang. 
 
