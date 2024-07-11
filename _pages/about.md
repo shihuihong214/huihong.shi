@@ -51,6 +51,8 @@ My **<span style="color: #8d4bbb;">CV</span>** can be downloaded here!
 
 [**Abstract**]
 We propose a **Neural Architecture Search and Acceleration framework** dubbed NASA to enable automated search and acceleration of ***multiplication-reduced models***, aiming to marry the powerful performance of multiplication-based models and the hardware efficiency of multiplication-free models.
+</div>
+</div>
 
 <!-- *********NASA+********* -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2023</div><img src='images/nasa2.jpg' alt="sym" width="100%"></div></div>
