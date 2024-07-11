@@ -120,7 +120,7 @@ We propose an **FPGA-oriented** search and acceleration framework called NASA-F 
 
 
 <!-- *********NASA+********* -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2023</div><img src='images/nasa+.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2023</div><img src='images/NASA2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NASA$+$: Neural Architecture Search and Acceleration for Multiplication-Reduced Hybrid Networks.](https://ieeexplore.ieee.org/abstract/document/10078392)
@@ -147,6 +147,21 @@ Inspired by the fact that multiplications can be mathematically decomposed into 
 
 [**Abstract**]
 We propose a **Neural Architecture Search and Acceleration framework** (NASA) to enable automated search and acceleration of ***multiplication-reduced models***, aiming to marry the powerful performance of multiplication-based models and the hardware efficiency of multiplication-free models.
+</div>
+</div>
+
+<!-- *********litnet********* -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2021</div><img src='images/litnet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LITNet: A Light-weight Image Transform Net for Image Style Transfer.](https://ieeexplore.ieee.org/abstract/document/9533679)
+
+**<span style="color: #006400;">Huihong Shi</span>**, Wendong Mao, Zhongfeng Wang
+
+[**Conference**] International Joint Conference on Neural Networks (IJCNN 2021)
+
+[**Abstract**]
+We propose a compression algorithm for one of the influential CNN-based **style transfer** networks, named Image Transform Net (ITNet), resulting in a lightweight model called Light-weight Image Transform Net (LITNet). Additionally, we introduce ***a novel distillation loss*** to convert unsupervised learning into supervised learning, aiming to enhance generation quality.
 </div>
 </div>
 
