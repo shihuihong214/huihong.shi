@@ -19,11 +19,11 @@ redirect_from:
 
 Hello, welcome to my page!
 
-My name is **<span style="color: #8d4bbb;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **<span style="color: #1976D2;">Nanjing University</span>**, under the supervision of **<span style="color: #8d4bbb;">Prof. Zhongfeng Wang</span>**. From April 2021 to December 2022, I was a visiting student at the EIC Lab at **<span style="color: #1976D2;">Rice University</span>**, supervised remotely by **<span style="color: #8d4bbb;">Prof. Yingyan Lin</span>**. I also visited the EIC Lab at **<span style="color: #1976D2;">the Georgia Institute of Technology</span>** in person from December 2023 to May 2024. 
+My name is **<span style="color: #FF4500;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **<span style="color: #1976D2;">Nanjing University</span>**, under the supervision of **<span style="color: #FF4500;">Prof. Zhongfeng Wang</span>**. From April 2021 to December 2022, I was a visiting student at the EIC Lab at **<span style="color: #1976D2;">Rice University</span>**, supervised remotely by **<span style="color: #FF4500;">Prof. Yingyan Lin</span>**. I also visited the EIC Lab at **<span style="color: #1976D2;">the Georgia Institute of Technology</span>** in person from December 2023 to May 2024. 
 
 My research interests include **<span style="color: #1976D2;">efficient and automated machine learning</span>**, as well as **<span style="color: #1976D2;">algorithm and hardware accelerator co-design</span>**.
 
-My **<span style="color: #8d4bbb;">CV</span>** can be downloaded here!
+My **<span style="color: #FF4500;">CV</span>** can be downloaded here!
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -32,11 +32,11 @@ My **<span style="color: #8d4bbb;">CV</span>** can be downloaded here!
 <!-- <span class='anchor' id='/educations/'></span> -->
 <!-- permalink: /terms/ -->
 # 📖 Educations
-- *2019.06 - now*, <span style="color: #1976D2;">Nanjing University</span>, School of Electronic Science and Engineering, <span style="color: #006400;">Ph.D. student</span> supervised by <span style="color: #8d4bbb;">Prof. Zhongfeng Wang</span>. 
+- *2019.06 - now*, <span style="color: #1976D2;">Nanjing University</span>, School of Electronic Science and Engineering, <span style="color: #006400;">Ph.D. student</span> supervised by <span style="color: #FF4500;">Prof. Zhongfeng Wang</span>. 
 
-- *2023.12 - 2024.05*, <span style="color: #1976D2;">Georgia Institute of Technology</span>, School of Computer Science, <span style="color: #006400;">visiting student</span> supervised by <span style="color: #8d4bbb;">Prof. Yingyan Lin</span>. 
+- *2023.12 - 2024.05*, <span style="color: #1976D2;">Georgia Institute of Technology</span>, School of Computer Science, <span style="color: #006400;">visiting student</span> supervised by <span style="color: #FF4500;">Prof. Yingyan Lin</span>. 
 
-- *2021.03 - 2022.12*, <span style="color: #1976D2;">Rice University (Remote)</span>, Schole of Electrical and Computer Engineering, <span style="color: #006400;">visiting student</span> supervised by <span style="color: #8d4bbb;">Prof. Yingyan Lin</span>. 
+- *2021.03 - 2022.12*, <span style="color: #1976D2;">Rice University (Remote)</span>, Schole of Electrical and Computer Engineering, <span style="color: #006400;">visiting student</span> supervised by <span style="color: #FF4500;">Prof. Yingyan Lin</span>. 
 
 - *2016.09 - 2020.06*, <span style="color: #1976D2;">Jilin University</span>, School of Communication Engineering, <span style="color: #006400;">Bachelor</span>. 
 
@@ -52,7 +52,7 @@ My **<span style="color: #8d4bbb;">CV</span>** can be downloaded here!
 <!-- [**Journal**] IEEE Transactions on Very Large Scale Integration Systems (TVLSI 2024) -->
 
 [**Abstract**]
-To marry the hardware efficiency of both quantization and efficient Vision Transformer (ViT) architectures, we propose Trio-ViT. This framework focuses on the ***quantization and acceleration of efficient ViTs***, eliminating the troublesome Softmax and integrating linear attention with low computational complexity.
+We propose Trio-ViT to marry the hardware efficiency of both quantization and efficient Vision Transformer (ViT) architectures, which (1) eliminate the troublesome Softmax and (2) integrate linear attention with low computational complexity.
 </div>
 </div>
 
@@ -67,7 +67,7 @@ To marry the hardware efficiency of both quantization and efficient Vision Trans
 [**Journal**] IEEE Transactions on Very Large Scale Integration Systems (TVLSI 2024)
 
 [**Abstract**]
-We propose P$^2$-ViT, a Power-of-Two (PoT) post-training quantization and acceleration framework for Vision Transformers (ViTs). We first propose a dedicated quantization scheme with ***PoT scaling factors*** to minimize re-quantization overhead and a ***coarse-to-fine automatic mixed-precision quantization***. We further develop a ***dedicated accelerator*** to enhance throughput.
+We propose a Power-of-Two (PoT) post-training quantization and acceleration framework (P$^2$-ViT) for Vision Transformers (ViTs). We first propose a dedicated quantization scheme with ***PoT scaling factors*** to minimize re-quantization overhead and further develop a ***dedicated accelerator*** to enhance throughput.
 </div>
 </div>
 
@@ -82,7 +82,7 @@ Haoran You*, **<span style="color: #006400;">Huihong Shi*</span>**, Yipin Guo*, 
 [**Conference**] Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)
 
 [**Abstract**]
-We propose to reparameterize pre-trained Vision Transformers (ViTs) with ***a mixture of multiplication primitives***, such as bitwise shifts and additions, towards a new type of *multiplication-reduced model* called ShiftAddViT. This approach aims to achieve end-to-end ***inference speedups on GPUs*** without requiring training from scratch.
+We reparameterize pre-trained Vision Transformers (ViTs) with ***a mixture of multiplication primitives***, such as bitwise shifts and additions, to obtain ShiftAddViT. This approach aims to achieve end-to-end ***inference speedups on GPUs*** without requiring training from scratch.
 </div>
 </div>
 
@@ -97,7 +97,7 @@ Jyotikrishna Dass*, Shang Wu,* **<span style="color: #006400;">Huihong Shi*</spa
 [**Conference**] International Symposium on High-Performance Computer Architecture (HPCA 2023)
 
 [**Abstract**]
-We propose VITALITY to boost the **inference efficiency of Vision Transformers (ViTs)** through algorithm-hardware co-design. VITALITY approximates the vanilla softmax with first-order ***Taylor attention for linear complexity*** and unifies low-rank and sparse components to enhance accuracy. Additionally, we develop a ***dedicated accelerator*** that leverages the linearized workload to improve overall hardware efficiency.
+We propose VITALITY to boost the **inference efficiency of Vision Transformers (ViTs)**. We first approximate the vanilla softmax with first-order ***Taylor attention for linear complexity*** and unifies low-rank and sparse components to enhance accuracy. We further develop a ***dedicated accelerator*** that leverages the linearized workload to improve hardware efficiency.
 </div>
 </div>
 
