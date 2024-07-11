@@ -50,7 +50,8 @@ My **<span style="color: #8d4bbb;">CV</span>** can be downloaded here!
 **Huihong Shi**, Haoran You, Yang Zhao, ZHongfeng Wang, Yingyan Lin
 
 [**Abstract**]
-- We propose a **Neural Architecture Search and Acceleration framework** dubbed NASA. We first propose a dedicated ***neural architecture search (NAS) engine*** to enable the automated development of *multiplication-reduced models*, aiming to marry the powerful performance of multiplication-based models and the hardware efficiency of multiplication-free models. We further integrate a ***dedicated accelerator*** featuring a chunk-based design to fully leverage our algorithmic benefits, thereby enhancing overall hardware efficiency. 
+We propose a **Neural Architecture Search and Acceleration framework** dubbed NASA to enable automated search and acceleration of *multiplication-reduced models*, aiming to marry the powerful performance of multiplication-based models and the hardware efficiency of multiplication-free models.
+<!-- - We propose a **Neural Architecture Search and Acceleration framework** dubbed NASA. We first propose a dedicated ***neural architecture search (NAS) engine*** to enable the automated development of *multiplication-reduced models*, aiming to marry the powerful performance of multiplication-based models and the hardware efficiency of multiplication-free models. We further integrate a ***dedicated accelerator*** featuring a chunk-based design to fully leverage our algorithmic benefits, thereby enhancing overall hardware efficiency.  -->
 </div>
 </div>
 
