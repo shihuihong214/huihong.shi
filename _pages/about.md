@@ -27,7 +27,7 @@ My research interests include **efficient and automated machine learning**, as w
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<span class='anchor' id='-educations'></span>
+<span class='anchor' id='/educations/'></span>
 # 📖 Educations
 - *2019.06 - now*, Nanjing University, School of Electronic Science and Engineering, Ph.D. student supervised by Prof. Zhongfeng Wang. 
 
