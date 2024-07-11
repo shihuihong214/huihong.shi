@@ -19,7 +19,7 @@ redirect_from:
 
 Hello, welcome to my page!
 
-My name is **<span style="color: #006400;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **<span style="color: #1976D2;">Nanjing University</span>**, under the supervision of **<span style="color: #006400;">Prof. Zhongfeng Wang</span>**. From April 2021 to December 2022, I was a visiting student at the EIC Lab at **<span style="color: #1976D2;">Rice University</span>**, supervised remotely by **<span style="color: #006400;">Prof. Yingyan Lin</span>**. I also visited the EIC Lab at **<span style="color: #1976D2;">the Georgia Institute of Technology</span>** in person from December 2023 to May 2024.
+My name is **<span style="color: #228B22;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **<span style="color: #1976D2;">Nanjing University</span>**, under the supervision of **<span style="color: #228B22;">Prof. Zhongfeng Wang</span>**. From April 2021 to December 2022, I was a visiting student at the EIC Lab at **<span style="color: #1976D2;">Rice University</span>**, supervised remotely by **<span style="color: #228B22;">Prof. Yingyan Lin</span>**. I also visited the EIC Lab at **<span style="color: #1976D2;">the Georgia Institute of Technology</span>** in person from December 2023 to May 2024.
 
 My research interests include **<span style="color: #1976D2;">efficient and automated machine learning</span>**, as well as **<span style="color: #1976D2;">algorithm and hardware accelerator co-design</span>**.
 
@@ -30,13 +30,13 @@ My research interests include **<span style="color: #1976D2;">efficient and auto
 <!-- <span class='anchor' id='/educations/'></span> -->
 <!-- permalink: /terms/ -->
 # 📖 Educations
-- *2019.06 - now*, Nanjing University, School of Electronic Science and Engineering, Ph.D. student supervised by Prof. Zhongfeng Wang. 
+- *2019.06 - now*, <span style="color: #1976D2;">Nanjing University</span>, School of Electronic Science and Engineering, <span style="color: #9A5EC8;">Ph.D. student</span> supervised by <span style="color: #228B22;">Prof. Zhongfeng Wang</span>. 
 
-- *2023.12 - 2024.05*, Georgia Institute of Technology, School of Computer Science, visiting student supervised by Prof. Yingyan Lin. 
+- *2023.12 - 2024.05*, <span style="color: #1976D2;">Georgia Institute of Technology</span>, School of Computer Science, <span style="color: #9A5EC8;">visiting student</span> supervised by <span style="color: #228B22;">Prof. Yingyan Lin</span>. 
 
-- *2021.03 - 2022.12*, Rice University (Remote), Schole of Electrical and Computer Engineering, visiting student supervised by Prof. Yingyan Lin. 
+- *2021.03 - 2022.12*, <span style="color: #1976D2;">Rice University (Remote)</span>, Schole of Electrical and Computer Engineering, <span style="color: #9A5EC8;">visiting student</span> supervised by <span style="color: #228B22;">Prof. Yingyan Lin</span>. 
 
-- *2016.09 - 2020.06*, Jilin University, School of Communication Engineering, Bachelor. 
+- *2016.09 - 2020.06*, <span style="color: #1976D2;">Jilin University</span>, School of Communication Engineering, <span style="color: #9A5EC8;">Bachelor</span>. 
 
 # 📝 Publications 
 
