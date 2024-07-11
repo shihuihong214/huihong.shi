@@ -19,14 +19,14 @@ redirect_from:
 
 Hello, welcome to my page!
 
-My name is **Huihong Shi**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **Nanjing University**, under the supervision of **Prof. Zhongfeng Wang**. From April 2021 to December 2022, I was a visiting student at the EIC Lab at **Rice University**, supervised remotely by **Prof. Yingyan Lin**. I also visited the EIC Lab at **the Georgia Institute of Technology** in person from December 2023 to May 2024.
+My name is **<span style="color: red;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **Nanjing University**, under the supervision of **Prof. Zhongfeng Wang**. From April 2021 to December 2022, I was a visiting student at the EIC Lab at **Rice University**, supervised remotely by **Prof. Yingyan Lin**. I also visited the EIC Lab at **the Georgia Institute of Technology** in person from December 2023 to May 2024.
 
 My research interests include **efficient and automated machine learning**, as well as **algorithm and hardware accelerator co-design**.
 
 
-<!-- # 🔥 News -->
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2019.06 - now*, Nanjing University, School of Electronic Science and Engineering, Ph.D. student supervised by Prof. Zhongfeng Wang. 
@@ -65,9 +65,9 @@ My research interests include **efficient and automated machine learning**, as w
 - *2017.09* National Scholarship Award for Undergraduates Issued by Ministry of Education of China.
 
 
-<!-- # 💬 Invited Talks
+# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
