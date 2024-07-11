@@ -32,7 +32,8 @@ My **<span style="color: #CC6600;">CV</span>** can be downloaded here!
 <!-- <span class='anchor' id='/educations/'></span> -->
 <!-- permalink: /terms/ -->
 # 📖 Educations
-- *2019.06 - now*, <span style="color: #1976D2;">Nanjing University</span>, School of Electronic Science and Engineering, <span style="color: #006400;">Ph.D. student</span> supervised by <span style="color: #CC6600;">Prof. Zhongfeng Wang</span>. 
+- *2019.06 - now*, <span style="color: #1976D2;">Nanjing University</span>, School of Electronic Science and Engineering <br>
+ <span style="color: #006400;">Ph.D. student</span> supervised by <span style="color: #CC6600;">Prof. Zhongfeng Wang</span>
 
 - *2023.12 - 2024.05*, <span style="color: #1976D2;">Georgia Institute of Technology</span>, School of Computer Science, <span style="color: #006400;">visiting student</span> supervised by <span style="color: #CC6600;">Prof. Yingyan Lin</span>. 
 
@@ -181,7 +182,10 @@ We propose a compression algorithm for one of the influential CNN-based **style 
 </div>
 
 
-- [An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT](https://arxiv.org/abs/2403.20230), H. Shao, **<span style="color: #006400;">H. Shi</span>**, W. Mao, Z. Wang. IEEE International Symposium on Circuits and Systems 2024 **(ISCAS 2024)**
+- [An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT](https://arxiv.org/abs/2403.20230) <br>
+H. Shao, **<span style="color: #006400;">H. Shi</span>**
+W. Mao, Z. Wang <br>
+IEEE International Symposium on Circuits and Systems 2024 **(ISCAS 2024)**
 
 - [A Computationally Efficient Neural Video Compression Accelerator Based on a Sparse CNN-Transformer Hybrid](https://arxiv.org/html/2312.10716v1), S. Zhang, W. Mao, **<span style="color: #006400;">H. Shi</span>**, Z. Wang. Design, Automation and Test in Europe Conference **(DATE 2024)**
 
