@@ -36,10 +36,10 @@ My **<span style="color: #CC6600;">CV</span>** can be downloaded here!
  <span style="color: #006400;">Ph.D. student</span> supervised by <span style="color: #CC6600;">Prof. Zhongfeng Wang</span>
 
 - *2023.12 - 2024.05*, <span style="color: #1976D2;">Georgia Institute of Technology</span>, School of Computer Science  <br>
- <span style="color: #006400;">visiting student</span> supervised by <span style="color: #CC6600;">Prof. Yingyan Lin</span>
+ <span style="color: #006400;">Vsiting student</span> supervised by <span style="color: #CC6600;">Prof. Yingyan Lin</span>
 
 - *2021.03 - 2022.12*, <span style="color: #1976D2;">Rice University (Remote)</span>, Schole of Electrical and Computer Engineering  <br>
- <span style="color: #006400;">visiting student</span> supervised by <span style="color: #CC6600;">Prof. Yingyan Lin</span>
+ <span style="color: #006400;">Visiting student</span> supervised by <span style="color: #CC6600;">Prof. Yingyan Lin</span>
 
 - *2016.09 - 2020.06*, <span style="color: #1976D2;">Jilin University</span>, School of Communication Engineering, 
 <span style="color: #006400;">Bachelor</span>
