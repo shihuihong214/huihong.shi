@@ -41,18 +41,83 @@ My **<span style="color: #8d4bbb;">CV</span>** can be downloaded here!
 - *2016.09 - 2020.06*, <span style="color: #1976D2;">Jilin University</span>, School of Communication Engineering, <span style="color: #006400;">Bachelor</span>. 
 
 # 📝 Publications 
-<!-- *********NASA********* -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2022</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
+<!-- *********Trio^ViT********* -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NASA: Neural Architecture Search and Acceleration for Hardware Inspired Hybrid Networks.](https://dl.acm.org/doi/abs/10.1145/3508352.3549478)
+[Trio-ViT: Post-Training Quantization and Acceleration for Softmax-Free Efficient Vision Transformer.](https://arxiv.org/abs/2405.03882)
 
-**<span style="color: #006400;">Huihong Shi</span>**, Haoran You, Yang Zhao, Zhongfeng Wang, Yingyan Lin
+**<span style="color: #006400;">Huihong Shi</span>**, Haikuo Shao, Wendong Mao, Zhongfeng Wang
+
+<!-- [**Journal**] IEEE Transactions on Very Large Scale Integration Systems (TVLSI 2024) -->
 
 [**Abstract**]
-We propose a **Neural Architecture Search and Acceleration framework** dubbed NASA to enable automated search and acceleration of ***multiplication-reduced models***, aiming to marry the powerful performance of multiplication-based models and the hardware efficiency of multiplication-free models.
+To marry the hardware efficiency of both quantization and efficient Vision Transformer (ViT) architectures, we propose Trio-ViT. This framework focuses on the ***quantization and acceleration of efficient ViTs***, eliminating the troublesome Softmax and integrating linear attention with low computational complexity.
 </div>
 </div>
+
+<!-- *********P^ViT********* -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVLSI 2024</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[P$^2$-ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer.](http://arxiv.org/abs/2405.19915)
+
+**<span style="color: #006400;">Huihong Shi</span>**, Xin Cheng, Wendong Mao, Zhongfeng Wang
+
+[**Journal**] IEEE Transactions on Very Large Scale Integration Systems (TVLSI 2024)
+
+[**Abstract**]
+We propose P$^2$-ViT, a Power-of-Two (PoT) post-training quantization and acceleration framework for Vision Transformers (ViTs). We first propose a dedicated quantization scheme with ***PoT scaling factors*** to minimize re-quantization overhead and a ***coarse-to-fine automatic mixed-precision quantization***. We further develop a ***dedicated accelerator*** to enhance throughput.
+</div>
+</div>
+
+<!-- *********ShiftAddViT********* -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ShiftAddViT: Mixture of Multiplication Primitives Towards Efficient Vision Transformer.](https://proceedings.neurips.cc/paper_files/paper/2023/file/69c49f75ca31620f1f0d38093d9f3d9b-Paper-Conference.pdf)
+
+Haoran You*, **<span style="color: #006400;">Huihong Shi*</span>**, Yipin Guo*, Zhongfeng Wang (Co-first Authors)
+
+[**Conference**] Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)
+
+[**Abstract**]
+We propose to reparameterize pre-trained Vision Transformers (ViTs) with ***a mixture of multiplication primitives***, such as bitwise shifts and additions, towards a new type of *multiplication-reduced model* called ShiftAddViT. This approach aims to achieve end-to-end ***inference speedups on GPUs*** without requiring training from scratch.
+</div>
+</div>
+
+<!-- *********Vitality********* -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2023</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention.](https://ieeexplore.ieee.org/abstract/document/10071081)
+
+Jyotikrishna Dass*, Shang Wu,* **<span style="color: #006400;">Huihong Shi*</span>**, Chaojian Li, Zhifan Ye, Zhongfeng Wang, Yingyan Lin
+
+[**Conference**] International Symposium on High-Performance Computer Architecture (HPCA 2023)
+
+[**Abstract**]
+We propose VITALITY to boost the **inference efficiency of Vision Transformers (ViTs)** through algorithm-hardware co-design. VITALITY approximates the vanilla softmax with first-order ***Taylor attention for linear complexity*** and unifies low-rank and sparse components to enhance accuracy. Additionally, we develop a ***dedicated accelerator*** that leverages the linearized workload to improve overall hardware efficiency.
+</div>
+</div>
+
+
+<!-- *********NASA-F+********* -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2024</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NASA-F: FPGA-Oriented Search and Acceleration for Multiplication-Reduced Hybrid Networks.](https://ieeexplore.ieee.org/abstract/document/10308526)
+
+**<span style="color: #006400;">Huihong Shi</span>**, Yang Xu, Wendong Mao, Zhongfeng Wang
+
+[**Journal**] IEEE Transactions on Circuits and Systems I (TCAS-I 2024)
+
+[**Abstract**]
+We propose an FPGA-oriented search and acceleration framework called NASA-F for multiplication-reduced hybrid models. Specifically, we fully leverage the diverse hardware resources available on FPGAs to accelerate heterogeneous layers in hybrid models, aiming to enhance both hardware utilization and throughput.
+
+</div>
+</div>
+
 
 <!-- *********NASA+********* -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2023</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
@@ -62,11 +127,29 @@ We propose a **Neural Architecture Search and Acceleration framework** dubbed NA
 
 **<span style="color: #006400;">Huihong Shi</span>**, Haoran You, Zhongfeng Wang, Yingyan Lin
 
+[**Journal**] IEEE Transactions on Circuits and Systems I (TCAS-I 2023)
+
 [**Abstract**]
 Inspired by the fact that multiplications can be mathematically decomposed into bit-wise shifts and additions, we design **reconfigurable PEs** to simultaneously support multiplication-based convolutions, shift, and adder layers, thus enhancing the flexibility of our accelerator.
 
 </div>
 </div>
+
+<!-- *********NASA********* -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2022</div><img src='images/nasa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NASA: Neural Architecture Search and Acceleration for Hardware Inspired Hybrid Networks.](https://dl.acm.org/doi/abs/10.1145/3508352.3549478)
+
+**<span style="color: #006400;">Huihong Shi</span>**, Haoran You, Yang Zhao, Zhongfeng Wang, Yingyan Lin
+
+[**Conference**] International Conference on Computer-Aided Design (ICCAD 2022)
+
+[**Abstract**]
+We propose a **Neural Architecture Search and Acceleration framework** (NASA) to enable automated search and acceleration of ***multiplication-reduced models***, aiming to marry the powerful performance of multiplication-based models and the hardware efficiency of multiplication-free models.
+</div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
