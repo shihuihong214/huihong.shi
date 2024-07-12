@@ -80,7 +80,7 @@ We propose a Neural **Architecture and Accelerator Co-Search** framework (NASH) 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVLSI 2024</div><img src='images/p2-vit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[P$^2$-ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer.](http://arxiv.org/abs/2405.19915)
+[P$^2$-ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer.](https://ieeexplore.ieee.org/document/10596041)
 
 **<span style="color: #006400;">Huihong Shi</span>**, Xin Cheng, Wendong Mao, Zhongfeng Wang
 
