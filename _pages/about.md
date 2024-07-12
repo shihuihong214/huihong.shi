@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, welcome to my page!
+Hello, welcome to my page! 🎉🎉
 
 My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **<span style="color: #1976D2;">Nanjing University</span>**, under the supervision of **<span style="color: #CC6600;">Prof. Zhongfeng Wang</span>**. From April 2021 to December 2022, I was a visiting student at the EIC Lab at **<span style="color: #1976D2;">Rice University</span>**, supervised remotely by **<span style="color: #CC6600;">Prof. Yingyan Lin</span>**. I also visited the EIC Lab at **<span style="color: #1976D2;">the Georgia Institute of Technology</span>** in person from December 2023 to May 2024. 
 
@@ -91,6 +91,23 @@ We propose a Power-of-Two (PoT) post-training quantization and acceleration fram
 </div>
 </div>
 
+
+<!-- *********NASA-F+********* -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2024</div><img src='images/nasa-f.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NASA-F: FPGA-Oriented Search and Acceleration for Multiplication-Reduced Hybrid Networks.](https://ieeexplore.ieee.org/abstract/document/10308526)
+
+**<span style="color: #006400;">Huihong Shi</span>**, Yang Xu, Wendong Mao, Zhongfeng Wang 
+
+[**Journal**] IEEE Transactions on Circuits and Systems I (TCAS-I 2024)
+
+[**Abstract**]
+We propose an **FPGA-oriented** search and acceleration framework called NASA-F for multiplication-reduced hybrid models. Specifically, we fully leverage the ***diverse hardware resources*** (DSPs and LUTs) available on FPGAs to accelerate ***heterogeneous layers*** in hybrid models, aiming to enhance both hardware utilization and throughput.
+
+</div>
+</div>
+
 <!-- *********ShiftAddViT********* -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/shiftaddvit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -120,24 +137,6 @@ Jyotikrishna Dass\*, Shang Wu\*, **<span style="color: #006400;">Huihong Shi\*</
 We propose VITALITY to boost the **inference efficiency of Vision Transformers (ViTs)** via algorithm-hardware co-design. We first approximate the vanilla softmax with first-order ***Taylor attention for linear complexity*** and unifies low-rank and sparse components to enhance accuracy. We further develop a ***dedicated accelerator*** that leverages the linearized workload to improve hardware efficiency.
 </div>
 </div>
-
-
-<!-- *********NASA-F+********* -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2024</div><img src='images/nasa-f.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[NASA-F: FPGA-Oriented Search and Acceleration for Multiplication-Reduced Hybrid Networks.](https://ieeexplore.ieee.org/abstract/document/10308526)
-
-**<span style="color: #006400;">Huihong Shi</span>**, Yang Xu, Wendong Mao, Zhongfeng Wang 
-
-[**Journal**] IEEE Transactions on Circuits and Systems I (TCAS-I 2024)
-
-[**Abstract**]
-We propose an **FPGA-oriented** search and acceleration framework called NASA-F for multiplication-reduced hybrid models. Specifically, we fully leverage the ***diverse hardware resources*** (DSPs and LUTs) available on FPGAs to accelerate ***heterogeneous layers*** in hybrid models, aiming to enhance both hardware utilization and throughput.
-
-</div>
-</div>
-
 
 <!-- *********NASA+********* -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2023</div><img src='images/NASA2.jpg' alt="sym" width="100%"></div></div>
