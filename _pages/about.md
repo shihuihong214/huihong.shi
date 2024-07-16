@@ -24,7 +24,7 @@ My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am curren
 
 My research interests include **<span style="color: #1976D2;">efficient and automated machine learning</span>**, as well as **<span style="color: #1976D2;">algorithm and hardware co-design</span>**.
 
-My **<span style="color: #CC6600;">CV</span>** can be downloaded here!
+My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](file:///Users/huihong/Desktop/temp/shh/CV_Huihong.pdf)!
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
