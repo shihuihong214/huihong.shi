@@ -30,7 +30,7 @@ My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](https://
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- <span class='anchor' id='/educations/'></span> -->
+<span class='anchor' id='/educations/'></span>
 <!-- permalink: /terms/ -->
 # 📖 Educations
 - *2020.09 - now*, <span style="color: #1976D2;">Nanjing University</span>, School of Electronic Science and Engineering <br>
