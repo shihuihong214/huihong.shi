@@ -1,12 +1,10 @@
 main:
   - title: "About Me"
-    url: "/#about-me"
-    
+    url: "/huihong.shi/#about-me"
   - title: "Educations"
-    url: "/#educations"
-    
+    url: "/huihong.shi/#educations"
   - title: "Publications"
-    url: "/#publications"
-    
+    url: "/huihong.shi/#publications"
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+    url: "/huihong.shi/#honors-and-awards"
+
