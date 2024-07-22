@@ -196,7 +196,7 @@ We propose a compression algorithm for one of the influential CNN-based **style 
 - [An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT](https://arxiv.org/abs/2403.20230) <br>
 H. Shao, **<span style="color: #006400;">H. Shi</span>**
 W. Mao, Z. Wang <br>
-IEEE International Symposium on Circuits and Systems 2024 **(ISCAS 2024)**
+IEEE International Symposium on Circuits and Systems 2024 **(ISCAS 2024)** <div class="badge">Under Review</div>
 
 - [A Computationally Efficient Neural Video Compression Accelerator Based on a Sparse CNN-Transformer Hybrid](https://arxiv.org/html/2312.10716v1) <br>
 S. Zhang, W. Mao, **<span style="color: #006400;">H. Shi</span>**, Z. Wang <br>
