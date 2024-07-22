@@ -325,9 +325,3 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
-.anchor {
-  display: block;
-  height: 80px; /* 控制跳转后顶部的间距 */
-  margin-top: -80px; /* 负值与height值相同 */
-  visibility: hidden;
-}
