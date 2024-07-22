@@ -33,10 +33,10 @@ My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](https://
 <span class='anchor' id='/educations/'></span>
 <!-- permalink: /terms/ -->
 <div id="educations" class="section">
-    <h2>📖 Educations</h2>
+    <h2></h2>
     <p></p>
 </div>
-</div>
+# 📖 Educations
 - *2020.09 - now*, <span style="color: #1976D2;">Nanjing University</span>, School of Electronic Science and Engineering <br>
  <span style="color: #006400;">Ph.D. student</span> supervised by <span style="color: #CC6600;">Prof. Zhongfeng Wang</span>
 
