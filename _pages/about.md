@@ -49,6 +49,10 @@ My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](https://
 - *2016.09 - 2020.06*, <span style="color: #1976D2;">Jilin University</span>, School of Communication Engineering, 
 <span style="color: #006400;">Bachelor</span>
 
+<div id="publications" class="section">
+    <h2></h2>
+    <p></p>
+</div>
 # 📝 Publications 
 <!-- *********Trio^ViT********* -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/trio-vit.jpg' alt="sym" width="100%"></div></div>
@@ -225,6 +229,10 @@ International Symposium on High-Performance Computer Architecture **(HPCA 2023)*
  S. Li, C. Li, W. Zhu, C. Wan, H. You, **<span style="color: #006400;">H. Shi</span>**, Y. Lin <br>
  International Symposium on Computer Architecture **(ISCA 2023)**
 
+<div id="honors-and-awards" class="section">
+    <h2></h2>
+    <p></p>
+</div>
 # 🎖 Honors and Awards
 - *2023.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
 - *2022.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
