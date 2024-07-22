@@ -5,10 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+baseurl: "/huihong.shi" # the subpath of your site
+url: "https://shihuihong214.github.io" # the base hostname & protocol for your site
+
 # Site Settings
 title                    : "Huihong Shi"
 description              : "A 5th-year Ph.D. Student in the School of Electronic Science and Engineering"
-repository               : "shihuihong214/huihong-shi.github.io"
+repository               : "shihuihong214/huihong.shi"
 google_scholar_stats_use_cdn : true
 
 # google analytics
