@@ -70,14 +70,14 @@ We propose Trio-ViT to marry the hardware efficiency of both quantization and ef
 </div>
 
 <!-- *********NASH********* -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/nash.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2024</div><img src='images/nash.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NASH: Neural Architecture and Accelerator Search for Multiplication-Reduced Hybrid Models.]()
 
 Yang Xu\*, **<span style="color: #006400;">Huihong Shi\*</span>**, Zhongfeng Wang (\*Co-first Authors)
 
-<!-- [**Journal**] IEEE Transactions on Very Large Scale Integration Systems (TVLSI 2024) -->
+[**Journal**] IEEE Transactions on Circuits and Systems I (TCAS-I 2024)
 
 [**Abstract**]
 We propose a Neural **Architecture and Accelerator Co-Search** framework (NASH) for *multiplication-reduced hybrid models*. We introduce a tailored ***zero-shot metric*** for architecture search to pre-identify promising models, enhancing efficiency and reducing gradient conflicts. For accelerator search, we use a ***coarse-to-fine approach*** to streamline the process. By integrating both searches, NASH achieves optimal model and accelerator pairing.
