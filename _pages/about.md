@@ -73,7 +73,7 @@ We propose Trio-ViT to marry the hardware efficiency of both quantization and ef
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2024</div><img src='images/nash.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NASH: Neural Architecture and Accelerator Search for Multiplication-Reduced Hybrid Models.]()
+[NASH: Neural Architecture and Accelerator Search for Multiplication-Reduced Hybrid Models.](https://arxiv.org/abs/2409.04829)
 
 Yang Xu\*, **<span style="color: #006400;">Huihong Shi\*</span>**, Zhongfeng Wang (\*Co-first Authors)
 
