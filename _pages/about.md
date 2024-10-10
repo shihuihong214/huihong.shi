@@ -38,7 +38,7 @@ My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](https://
 </div>
 # 📖 Educations
 - *2020.09 - now*, <span style="color: #1976D2;">Nanjing University</span>, School of Electronic Science and Engineering <br>
- <span style="color: #006400;">Ph.D. student</span> supervised by <span style="color: #CC6600;">Prof. Zhongfeng Wang</span>
+ <span style="color: #006400;">Ph.D. student</span> supervised by <span style="color: #CC6600;">Prof. Zhongfeng Wang (IEEE Fellow)</span>
 
 - *2023.12 - 2024.05*, <span style="color: #1976D2;">Georgia Institute of Technology</span>, School of Computer Science  <br>
  <span style="color: #006400;">Vsiting student</span> supervised by <span style="color: #CC6600;">Prof. Yingyan Lin</span>
