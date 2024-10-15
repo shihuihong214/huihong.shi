@@ -55,14 +55,14 @@ My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](https://
 </div>
 # 📝 Publications 
 <!-- *********Trio^ViT********* -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/trio-vit.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2024</div><img src='images/trio-vit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trio-ViT: Post-Training Quantization and Acceleration for Softmax-Free Efficient Vision Transformer.](https://arxiv.org/abs/2405.03882)
 
 **<span style="color: #006400;">Huihong Shi</span>**, Haikuo Shao, Wendong Mao, Zhongfeng Wang
 
-<!-- [**Journal**] IEEE Transactions on Very Large Scale Integration Systems (TVLSI 2024) -->
+[**Journal**] IEEE Transactions on Circuits and Systems I (TCAS-I 2024)
 
 [**Abstract**]
 We propose Trio-ViT to marry the hardware efficiency of both quantization and efficient Vision Transformer (ViT) architectures, which (1) eliminate the troublesome Softmax and (2) integrate linear attention with low computational complexity.
