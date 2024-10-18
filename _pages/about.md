@@ -22,7 +22,7 @@ Hello, welcome to my page! 🎉🎉
 
 My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **<span style="color: #1976D2;">Nanjing University</span>**, under the supervision of [Prof. Zhongfeng Wang](https://scholar.google.com/citations?hl=zh-CN&user=faC-qekAAAAJ) (IEEE Fellow). From April 2021 to December 2022, I was a visiting student at the EIC Lab at **<span style="color: #1976D2;">Rice University</span>**, supervised remotely by [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html#PI). I also visited the EIC Lab at **<span style="color: #1976D2;">the Georgia Institute of Technology</span>** in person from December 2023 to May 2024. 
 
-My research interests include **<span style="color: #1976D2;">efficient and automated machine learning</span>**, as well as **<span style="color: #1976D2;">algorithm and hardware co-design</span>**.
+My research interests include **<span style="color: #1976D2;">efficient and automated machine learning</span>** as well as **<span style="color: #1976D2;">algorithm and hardware co-design</span>**.
 
 🔥🔥 I am actively seeking **<span style="color: #CC6600;">Postdoc</span>** opportunities starting in Fall 2025! My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](https://github.com/shihuihong214/huihong.shi/raw/main/docs/CV_Huihong.pdf)!
 
@@ -73,7 +73,7 @@ We propose Trio-ViT to marry the hardware efficiency of both quantization and ef
 
 [An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT.](https://arxiv.org/abs/2403.20230)
 
-H. Shao, **<span style="color: #006400;">H. Shi</span>**, W. Mao, Z. Wang
+Haikuo Shao, **<span style="color: #006400;">Huihong Shi</span>**, Wendong Mao, Zhongfeng Wang
 
 [**Conference**] IEEE International Symposium on Circuits and Systems (ISCAS 2024)
 
