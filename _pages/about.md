@@ -62,7 +62,7 @@ My research interests include **<span style="color: #1976D2;">efficient and auto
 [**Journal**] IEEE Transactions on Circuits and Systems I (TCAS-I 2024)
 
 [**Abstract**]
-We propose Trio-ViT to marry the hardware efficiency of both quantization and efficient Vision Transformer (ViT) architectures, which (1) eliminate the troublesome Softmax and (2) integrate linear attention with low computational complexity.
+We propose Trio-ViT to marry the hardware efficiency of both **quantization** and **efficient Vision Transformer (ViT) architectures**, which (1) eliminate the troublesome Softmax and (2) integrate linear attention with low computational complexity.
 </div>
 </div>
 
@@ -264,6 +264,6 @@ Transactions on Machine Learning Research **(TMLR 2022)**
     <p></p>
 </div>
 # 📝Review Experience
-- *Conference*: I am serving as a reviewer for ICLR 2025 and NeurIPS 2025 and TNNLS.
-- *Journal*: I am serving as a reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS) AND IEEE Transactions on Circuits and Systems (TCAS).
+- [**Conference**] I served as a reviewer for ICLR 2025 and NeurIPS 2025.
+- [**Journal**] I served as a reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS) and IEEE Transactions on Circuits and Systems (TCAS).
 
