@@ -24,9 +24,10 @@ My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am curren
 
 My research interests include **<span style="color: #1976D2;">efficient and automated machine learning</span>**, as well as **<span style="color: #1976D2;">algorithm and hardware co-design</span>**.
 
-My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](https://www.overleaf.com/download/project/642ab4494654d840656b7c3c/build/190ba62aaad-4534f5ec88940d46/output/output.pdf?compileGroup=priority&clsiserverid=clsi-pre-emp-c2d-d-f-lbm8&enable_pdf_caching=true&popupDownload=true)!
+My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](./docs/CV_Huihong.pdf)!
 
-<!-- # 🔥 News
+🔥🔥 I am actively seeking Postdoctoral opportunities starting in Fall 2025!
+
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -47,7 +48,7 @@ My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](https://
  <span style="color: #006400;">Visiting student</span> supervised by <span style="color: #CC6600;">Prof. Yingyan Lin</span>
 
 - *2016.09 - 2020.06*, <span style="color: #1976D2;">Jilin University</span>, School of Communication Engineering, 
-<span style="color: #006400;">Bachelor</span>
+<span style="color: #006400;">Bachelor (GPA: 3.8/4.0)</span>
 
 <div id="publications" class="section">
     <h2></h2>
@@ -66,6 +67,22 @@ My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](https://
 
 [**Abstract**]
 We propose Trio-ViT to marry the hardware efficiency of both quantization and efficient Vision Transformer (ViT) architectures, which (1) eliminate the troublesome Softmax and (2) integrate linear attention with low computational complexity.
+</div>
+</div>
+
+
+<!-- *********Convolution-Transformer Hybrid Accelerator********* -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2024</div><img src='images/nash.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT.](https://arxiv.org/abs/2403.20230)
+
+H. Shao, **<span style="color: #006400;">H. Shi</span>**, W. Mao, Z. Wang
+
+[**Conference**] IEEE International Symposium on Circuits and Systems 2024 (ISCAS 2024)
+
+[**Abstract**]
+We propose an **FPGA-based accelerator for EfficientViT** to advance the hardware efficiency frontier of ViTs. Specifically, we design a *reconfigurable architecture* to efficiently support various operation types, including lightweight convolutions and attention, boosting hardware utilization. Additionally, we present a *time-multiplexed and pipelined* dataflow to facilitate both intra- and inter-layer fusions, reducing off-chip data access costs.
 </div>
 </div>
 
@@ -193,18 +210,25 @@ We propose a compression algorithm for one of the influential CNN-based **style 
 </div>
 
 
-- [An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT](https://arxiv.org/abs/2403.20230) <br>
-H. Shao, **<span style="color: #006400;">H. Shi</span>**
-W. Mao, Z. Wang <br>
-IEEE International Symposium on Circuits and Systems 2024 **(ISCAS 2024)**
-
 - [A Computationally Efficient Neural Video Compression Accelerator Based on a Sparse CNN-Transformer Hybrid](https://arxiv.org/html/2312.10716v1) <br>
 S. Zhang, W. Mao, **<span style="color: #006400;">H. Shi</span>**, Z. Wang <br>
 Design, Automation and Test in Europe Conference **(DATE 2024)**
 
+- [Unveiling and Harnessing Hidden Attention Sinks: Enhancing Large Language Models without Training through Attention Calibration](https://arxiv.org/abs/2406.15765) <br>
+ Z. Yu, Z. Wang, Y. Fu, **<span style="color: #006400;">H. Shi</span>**, K. Shaikh, Y. Lin <br>
+ International Conference on Machine Learning **(ICML 2024)**
+
+- [ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization](https://arxiv.org/abs/2406.05981) <br>
+ H You, Y Guo, Y Fu, W Zhou, **<span style="color: #006400;">H. Shi</span>**, X Zhang, S Kundu, A Yazdanbakhsh, Y Lin <br>
+ Thirty-eight Conference on Neural Information Processing Systems **(NeurIPS 2024)**
+
 - [ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design](https://ieeexplore.ieee.org/abstract/document/10071027) <br>
  H. You, Z. Sun, **<span style="color: #006400;">H. Shi</span>**, Z. Yu, Y. Zhao, Y. Zhang, C. Li, B. Li, Y. Lin <br>
 International Symposium on High-Performance Computer Architecture **(HPCA 2023)**
+
+- [Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=j7AChUYAAAAJ&citation_for_view=j7AChUYAAAAJ:zYLM7Y9cAGgC) <br>
+ S. Li, C. Li, W. Zhu, C. Wan, H. You, **<span style="color: #006400;">H. Shi</span>**, Y. Lin <br>
+ International Symposium on Computer Architecture **(ISCA 2023)**
 
 - [S$^2$R: Exploring a Double-Win Transformer-Based Framework for Ideal and Blind Super-Resolution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=j7AChUYAAAAJ&citation_for_view=j7AChUYAAAAJ:Y0pCki6q_DkC) <br>
  M. She, W. Mao, **<span style="color: #006400;">H. Shi</span>**, Z Wang <br>
@@ -218,22 +242,17 @@ International Symposium on High-Performance Computer Architecture **(HPCA 2023)*
  W. Mao, S. Yang, **<span style="color: #006400;">H. Shi</span>**, J. Liu, Z. Wang <br>
  IEEE Transactions on Multimedia **(TMM 2022)**
 
-- [Unveiling and Harnessing Hidden Attention Sinks: Enhancing Large Language Models without Training through Attention Calibration](https://arxiv.org/abs/2406.15765) <br>
- Z. Yu, Z. Wang, Y. Fu, **<span style="color: #006400;">H. Shi</span>**, K. Shaikh, Y. Lin <br>
- International Conference on Machine Learning **(ICML 2024)**
-
 - [Max-Affine Spline Insights Into Deep Network Pruning](https://arxiv.org/abs/2406.15765) <br>
- H. You, R. Balestriero, Z. Lu, Y. Kou, **<span style="color: #006400;">H. Shi</span>**, S. Zhang, S. Wu, Y. Lin <br> Transactions on Machine Learning Research **(TMLR 2024)**
+ H. You, R. Balestriero, Z. Lu, Y. Kou, **<span style="color: #006400;">H. Shi</span>**, S. Zhang, S. Wu, Y. Lin <br>
+Transactions on Machine Learning Research **(TMLR 2022)**
 
-- [Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=j7AChUYAAAAJ&citation_for_view=j7AChUYAAAAJ:zYLM7Y9cAGgC) <br>
- S. Li, C. Li, W. Zhu, C. Wan, H. You, **<span style="color: #006400;">H. Shi</span>**, Y. Lin <br>
- International Symposium on Computer Architecture **(ISCA 2023)**
 
 <div id="honors-and-awards" class="section">
     <h2></h2>
     <p></p>
 </div>
 # 🎖 Honors and Awards
+- *2024.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University
 - *2023.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
 - *2022.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
 - *2021.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
