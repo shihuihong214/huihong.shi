@@ -68,7 +68,7 @@ We propose Trio-ViT to marry the hardware efficiency of both quantization and ef
 
 
 <!-- *********Convolution-Transformer Hybrid Accelerator********* -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2024</div><img src='images/nash.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2024</div><img src='images/CNN-Transformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT.](https://arxiv.org/abs/2403.20230)
@@ -247,7 +247,7 @@ Transactions on Machine Learning Research **(TMLR 2022)**
     <h2></h2>
     <p></p>
 </div>
-# 🎖 Honors and Awards
+# 🎖️Honors and Awards
 - *2024.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University
 - *2023.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
 - *2022.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
@@ -258,6 +258,14 @@ Transactions on Machine Learning Research **(TMLR 2022)**
 - *2018.09* The First-Class Academic Scholarship for Undergraduates of Jilin University.
 - *2017.09* National Scholarship Award for Undergraduates Issued by Ministry of Education of China.
 
+
+<div id="review-experience" class="section">
+    <h2></h2>
+    <p></p>
+</div>
+# 📝Review Experience
+- *Conference* I am serving as a reviewer for ICLR 2025 and NeurIPS 2025 and TNNLS.
+- *Journal* I am serving as a reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS) AND IEEE Transactions on Circuits and Systems (TCAS).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
