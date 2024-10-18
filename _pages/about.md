@@ -20,16 +20,12 @@ redirect_from:
 
 Hello, welcome to my page! 🎉🎉 
 
-My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **<span style="color: #1976D2;">Nanjing University</span>**, under the supervision of **<span style="color: #CC6600;">Prof. Zhongfeng Wang</span>**. From April 2021 to December 2022, I was a visiting student at the EIC Lab at **<span style="color: #1976D2;">Rice University</span>**, supervised remotely by **<span style="color: #CC6600;">Prof. Yingyan Lin</span>**. I also visited the EIC Lab at **<span style="color: #1976D2;">the Georgia Institute of Technology</span>** in person from December 2023 to May 2024. 
+My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **<span style="color: #1976D2;">Nanjing University</span>**, under the supervision of [**<span style="color: #CC6600;">Prof. Zhongfeng Wang</span>**](https://scholar.google.com/citations?hl=zh-CN&user=faC-qekAAAAJ). From April 2021 to December 2022, I was a visiting student at the EIC Lab at **<span style="color: #1976D2;">Rice University</span>**, supervised remotely by [**<span style="color: #CC6600;">Prof. Yingyan Lin</span>**](https://eiclab.scs.gatech.edu/pages/team.html#PI). I also visited the EIC Lab at **<span style="color: #1976D2;">the Georgia Institute of Technology</span>** in person from December 2023 to May 2024. 
 
 My research interests include **<span style="color: #1976D2;">efficient and automated machine learning</span>**, as well as **<span style="color: #1976D2;">algorithm and hardware co-design</span>**.
 
-My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](./docs/CV_Huihong.pdf)!
+🔥🔥 I am actively seeking **<span style="color: #CC6600;">Postdoc</span>** opportunities starting in Fall 2025! My CV can be downloaded [here](../docs/CV_Huihong.pdf)!
 
-🔥🔥 I am actively seeking Postdoctoral opportunities starting in Fall 2025!
-
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <span class='anchor' id='/educations/'></span>
 <!-- permalink: /terms/ -->
@@ -39,13 +35,13 @@ My **<span style="color: #CC6600;">CV</span>** can be downloaded [here](./docs/C
 </div>
 # 📖 Educations
 - *2020.09 - now*, <span style="color: #1976D2;">Nanjing University</span>, School of Electronic Science and Engineering <br>
- <span style="color: #006400;">Ph.D. student</span> supervised by <span style="color: #CC6600;">Prof. Zhongfeng Wang (IEEE Fellow)</span>
+ <span style="color: #006400;">Ph.D. student</span> supervised by [Prof. Zhongfeng Wang(https://scholar.google.com/citations?hl=zh-CN&user=faC-qekAAAAJ) (IEEE Fellow)
 
 - *2023.12 - 2024.05*, <span style="color: #1976D2;">Georgia Institute of Technology</span>, School of Computer Science  <br>
- <span style="color: #006400;">Vsiting student</span> supervised by <span style="color: #CC6600;">Prof. Yingyan Lin</span>
+ <span style="color: #006400;">Vsiting student</span> supervised by [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html#PI)
 
 - *2021.03 - 2022.12*, <span style="color: #1976D2;">Rice University (Remote)</span>, Schole of Electrical and Computer Engineering  <br>
- <span style="color: #006400;">Visiting student</span> supervised by <span style="color: #CC6600;">Prof. Yingyan Lin</span>
+ <span style="color: #006400;">Visiting student</span> supervised by [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html#PI)
 
 - *2016.09 - 2020.06*, <span style="color: #1976D2;">Jilin University</span>, School of Communication Engineering, 
 <span style="color: #006400;">Bachelor (GPA: 3.8/4.0)</span>
@@ -79,7 +75,7 @@ We propose Trio-ViT to marry the hardware efficiency of both quantization and ef
 
 H. Shao, **<span style="color: #006400;">H. Shi</span>**, W. Mao, Z. Wang
 
-[**Conference**] IEEE International Symposium on Circuits and Systems 2024 (ISCAS 2024)
+[**Conference**] IEEE International Symposium on Circuits and Systems (ISCAS 2024)
 
 [**Abstract**]
 We propose an **FPGA-based accelerator for EfficientViT** to advance the hardware efficiency frontier of ViTs. Specifically, we design a *reconfigurable architecture* to efficiently support various operation types, including lightweight convolutions and attention, boosting hardware utilization. Additionally, we present a *time-multiplexed and pipelined* dataflow to facilitate both intra- and inter-layer fusions, reducing off-chip data access costs.
