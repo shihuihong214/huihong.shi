@@ -44,7 +44,7 @@ My research interests include **<span style="color: #1976D2;">efficient and auto
  <span style="color: #006400;">Visiting student</span> supervised by [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html#PI)
 
 - *2016.09 - 2020.06*, <span style="color: #1976D2;">Jilin University</span>, School of Communication Engineering, 
-<span style="color: #006400;">Bachelor (GPA: 3.8/4.0)</span>
+<span style="color: #006400;">Bachelor (Top 2%)</span>
 
 <div id="publications" class="section">
     <h2></h2>
