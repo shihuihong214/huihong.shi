@@ -20,7 +20,7 @@ redirect_from:
 
 Hello, welcome to my page! 🎉🎉 
 
-My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **<span style="color: #1976D2;">Nanjing University</span>**, under the supervision of [Prof. Zhongfeng Wang](https://scholar.google.com/citations?hl=zh-CN&user=faC-qekAAAAJ) (IEEE Fellow). From April 2021 to December 2022, I was a visiting student at the EIC Lab at **<span style="color: #1976D2;">Rice University</span>**, supervised remotely by [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html#PI). I also visited the EIC Lab at **<span style="color: #1976D2;">the Georgia Institute of Technology</span>** in person from December 2023 to May 2024. 
+My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am currently a 5th-year Ph.D. student in the School of Electronic Science and Engineering at **<span style="color: #1976D2;">Nanjing University</span>**, under the supervision of [Prof. Zhongfeng Wang](https://scholar.google.com/citations?hl=zh-CN&user=faC-qekAAAAJ) **((IEEE Fellow)**(. From April 2021 to December 2022, I was a visiting student at the EIC Lab at **<span style="color: #1976D2;">Rice University</span>**, supervised remotely by [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html#PI). I also visited the EIC Lab at **<span style="color: #1976D2;">the Georgia Institute of Technology</span>** in person from December 2023 to May 2024. 
 
 My research interests include **<span style="color: #1976D2;">efficient and automated machine learning</span>** as well as **<span style="color: #1976D2;">algorithm and hardware co-design</span>**.
 
@@ -35,13 +35,13 @@ My research interests include **<span style="color: #1976D2;">efficient and auto
 </div>
 # 📖 Educations
 - *2020.09 - now*, <span style="color: #1976D2;">Nanjing University</span>, School of Electronic Science and Engineering <br>
- <span style="color: #006400;">Ph.D. student</span> supervised by [Prof. Zhongfeng Wang](https://scholar.google.com/citations?hl=zh-CN&user=faC-qekAAAAJ) (IEEE Fellow)
+ <span style="color: #006400;">Ph.D. student</span> supervised by [Prof. Zhongfeng Wang](https://scholar.google.com/citations?hl=zh-CN&user=faC-qekAAAAJ) **(IEEE Fellow)**
 
 - *2023.12 - 2024.05*, <span style="color: #1976D2;">Georgia Institute of Technology</span>, School of Computer Science  <br>
- <span style="color: #006400;">Vsiting student</span> supervised by [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html#PI)
+ <span style="color: #006400;">Vsiting student</span> supervised by [Prof. Yingyan (Celine) Lin](https://eiclab.scs.gatech.edu/pages/team.html#PI)
 
 - *2021.03 - 2022.12*, <span style="color: #1976D2;">Rice University (Remote)</span>, Schole of Electrical and Computer Engineering  <br>
- <span style="color: #006400;">Visiting student</span> supervised by [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html#PI)
+ <span style="color: #006400;">Visiting student</span> supervised by [Prof. Yingyan (Celine) Lin](https://eiclab.scs.gatech.edu/pages/team.html#PI)
 
 - *2016.09 - 2020.06*, <span style="color: #1976D2;">Jilin University</span>, School of Communication Engineering, 
 <span style="color: #006400;">Bachelor (Top 2%)</span>
