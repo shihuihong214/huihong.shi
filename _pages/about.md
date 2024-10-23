@@ -24,7 +24,7 @@ My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am curren
 
 My research interests include **<span style="color: #1976D2;">efficient and automated machine learning</span>** as well as **<span style="color: #1976D2;">algorithm and hardware co-design</span>**.
 
-🔥🔥 I am actively seeking **<span style="color: #CC6600;">Postdoc</span>** opportunities starting in Fall 2025! My **<span style="color: #CC6600;">CV</span>** can be viewed and downloaded <a href="https://drive.google.com/file/d/1Hr6d_ws2WxSzG9ZE81Dh12vPweqgRsBf/view?usp=sharing" target="_blank">here</a>!
+🔥🔥 I am actively seeking **<span style="color: #CC6600;">Postdoc</span>** opportunities starting in Fall 2025! My **<span style="color: #CC6600;">CV</span>** can be viewed and downloaded <a href="https://drive.google.com/file/d/1MMZSVbX4zfsGFPSDQlKUOWVe9xyr-FDr/view?usp=sharing" target="_blank">here</a>!
 
 
 <span class='anchor' id='/educations/'></span>
