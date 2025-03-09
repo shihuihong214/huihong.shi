@@ -24,7 +24,7 @@ My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am curren
 
 My research interests include **<span style="color: #1976D2;">holistic and efficient machine learning systems via algorithm and hardware co-design</span>**.
 
-🔥🔥 I am actively seeking **<span style="color: #CC6600;">Postdoc</span>** opportunities starting in Fall 2025! My **<span style="color: #CC6600;">CV</span>** can be viewed and downloaded <a href="https://drive.google.com/file/d/1MMZSVbX4zfsGFPSDQlKUOWVe9xyr-FDr/view?usp=sharing" target="_blank">here</a>!
+My **<span style="color: #CC6600;">CV</span>** can be viewed and downloaded <a href="https://drive.google.com/file/d/1MMZSVbX4zfsGFPSDQlKUOWVe9xyr-FDr/view?usp=sharing" target="_blank">here</a>!
 
 
 <span class='anchor' id='/educations/'></span>
@@ -264,6 +264,6 @@ Transactions on Machine Learning Research **(TMLR 2022)**
     <p></p>
 </div>
 # 📝Review Experience
-- [**Conference**] I served as a reviewer for ICLR 2025 and NeurIPS 2025.
-- [**Journal**] I served as a reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS) and IEEE Transactions on Circuits and Systems (TCAS).
+- [**Conference**] I served as a reviewer for ICLR 2025, NeurIPS 2025, and ICML 2025.
+- [**Journal**] I served as a reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems (TCAS), and IEEE Transactions on Computers (TC).
 
