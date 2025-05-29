@@ -30,7 +30,7 @@ author:
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=j7AChUYAAAAJ"
+  % googlescholar    : "https://scholar.google.com/citations?user=j7AChUYAAAAJ"
   email            : "shihh@smail.nju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
