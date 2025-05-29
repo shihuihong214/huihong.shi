@@ -42,11 +42,11 @@ My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am curren
     <p></p>
 </div>
 # 🎖️Honors and Awards
-- *2024.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University
+- *2025.04* The Outstanding Graduate of Nanjing University.
+- *2024.09* The Excellence Cultivation Program Scholarship for Postgraduate Students at Nanjing University.
 - *2023.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
 - *2022.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
 - *2021.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
-- *2020.09* President's Special Scholarship for Doctoral Candidate of Nanjing University.  
 - *2019.10* Post and Telecommunications Alumni Scholarship for Undergraduates of Jilin University.
 - *2019.09* The First-Class Academic Scholarship for Undergraduates of Jilin University.
 - *2018.09* The First-Class Academic Scholarship for Undergraduates of Jilin University.
