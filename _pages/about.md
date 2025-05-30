@@ -47,7 +47,6 @@ My name is **<span style="color: #CC6600;">Huihong Shi</span>**, and I am curren
 - *2023.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
 - *2022.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
 - *2021.09* The First-Class Academic Scholarship for Postgraduate Students at Nanjing University. 
-- *2019.10* Post and Telecommunications Alumni Scholarship for Undergraduates of Jilin University.
 - *2019.09* The First-Class Academic Scholarship for Undergraduates of Jilin University.
 - *2018.09* The First-Class Academic Scholarship for Undergraduates of Jilin University.
 
