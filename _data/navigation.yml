@@ -3,10 +3,10 @@ main:
     url: "/huihong.shi/#about-me"
   - title: "Education"
     url: "/huihong.shi/#educations"
-  % - title: "Publications"
+  - title: "Publications"
     % url: "/huihong.shi/#publications"
   - title: "Honors and Awards"
     url: "/huihong.shi/#honors-and-awards"
-  % - title: "Review Experience"
+  - title: "Review Experience"
     % url: "/huihong.shi/#review-experience"
 
