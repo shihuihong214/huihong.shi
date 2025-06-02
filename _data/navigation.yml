@@ -4,9 +4,9 @@ main:
   - title: "Education"
     url: "/huihong.shi/#educations"
   - title: "Publications"
-    % url: "/huihong.shi/#publications"
+    url: "/huihong.shi/#publications"
   - title: "Honors and Awards"
     url: "/huihong.shi/#honors-and-awards"
   - title: "Review Experience"
-    % url: "/huihong.shi/#review-experience"
+    url: "/huihong.shi/#review-experience"
 
